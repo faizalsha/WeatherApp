@@ -7,8 +7,18 @@ shows following Details :
 3. UV index
 4. Pressure (in milibar)
 
+Permission needed :
+
+Internet Permission
+
+Device location
+
 Weather API used :
   DARK SKY API
+  
+Target SDK Version : 28
+
+Minimum SDK Version : 15
   
 <img src="images/permission.png" width="256">
 <img src="images/result.png" width="256">
