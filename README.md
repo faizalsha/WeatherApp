@@ -19,7 +19,10 @@ Weather API used :
 Target SDK Version : 28
 
 Minimum SDK Version : 15
-  
+
+Screen Shots :
+
+
 <img src="images/permission.png" width="256">
 <img src="images/result.png" width="256">
 
